@@ -7,7 +7,7 @@ public class Platform extends Rectangle {
     private int sizeY;
     private Color color;
     private int posX;
-    public void move() {
+    public void move(Direction direction) {
         // TODO implement
         //eDirection, what is it?
     }

@@ -9,7 +9,7 @@ public class Ball extends Circle {
     private int posX;
     private int posY;
 
-    public void move() {
+    public void move(Direction direction) {
         // TODO implement
         //eDirection, what is it?
     }
