@@ -1,4 +1,3 @@
-package org.example.alaska.model;
 
 import java.awt.*;
 

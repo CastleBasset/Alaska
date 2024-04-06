@@ -1,4 +1,3 @@
-package org.example.alaska.model;
 
 public class Rectangle implements Shape{
     @Override
